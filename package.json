@@ -1,6 +1,9 @@
 {
     "name": "@idpflare/management",
     "version": "0.1.0",
+    "publishConfig": {
+        "access": "public"
+    },
     "description": "Management API client for IDPFlare - admin operations for users, API keys, OAuth clients, and more",
     "type": "module",
     "main": "./dist/index.js",
