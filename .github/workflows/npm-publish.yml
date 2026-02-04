@@ -11,7 +11,7 @@ permissions:
 jobs:
   release:
     # prevent this action from running on forks
-    if: github.repository == 'IdpFlare/idpflare-client'
+    if: github.repository == 'IdpFlare/idpflare-management'
     permissions:
       contents: write
       pull-requests: read
