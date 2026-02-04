@@ -1,6 +1,9 @@
 # @idpflare/management
 
-Management API client for IDPFlare. Provides typed TypeScript functions for admin operations including user management, API keys, OAuth clients, audit logs, and statistics.
+
+**[Website](https://idpflare.com) | [GitHub](https://github.com/IdpFlare)**
+
+Management API client for [IDPFlare](https://idpflare.com). Provides typed TypeScript functions for admin operations including user management, API keys, OAuth clients, audit logs, and statistics.
 
 ## Installation
 
